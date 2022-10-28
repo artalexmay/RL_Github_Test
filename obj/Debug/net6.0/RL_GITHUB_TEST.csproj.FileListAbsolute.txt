@@ -1,0 +1,15 @@
+C:\projects\RL_GITHUB_TEST\bin\Debug\net6.0\RL_GITHUB_TEST.exe
+C:\projects\RL_GITHUB_TEST\bin\Debug\net6.0\RL_GITHUB_TEST.deps.json
+C:\projects\RL_GITHUB_TEST\bin\Debug\net6.0\RL_GITHUB_TEST.runtimeconfig.json
+C:\projects\RL_GITHUB_TEST\bin\Debug\net6.0\RL_GITHUB_TEST.dll
+C:\projects\RL_GITHUB_TEST\bin\Debug\net6.0\RL_GITHUB_TEST.pdb
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.csproj.AssemblyReference.cache
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.AssemblyInfoInputs.cache
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.AssemblyInfo.cs
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.csproj.CoreCompileInputs.cache
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.dll
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\refint\RL_GITHUB_TEST.dll
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.pdb
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\RL_GITHUB_TEST.genruntimeconfig.cache
+C:\projects\RL_GITHUB_TEST\obj\Debug\net6.0\ref\RL_GITHUB_TEST.dll
